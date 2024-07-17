@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o0J32M7+x4zdM0ehQvQavCZc4WIJHvjKGpzwWbcitHkmH6t34gaKNb1uAfIJerFKQPBuZ9HcoMT6V+ithS8ePw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\PizzaMizza\\PizzaMizza\\PizzaMizza.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
