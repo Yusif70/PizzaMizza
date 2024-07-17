@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nijat\\OneDrive\\Desktop\\Lessons\\PizzaMizza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC058ABD-FDC1-48A7-87E9-C3DEC2B95F0A}|PizzaMizza\\PizzaMizza.csproj|c:\\users\\nijat\\onedrive\\desktop\\lessons\\pizzamizza\\pizzamizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC058ABD-FDC1-48A7-87E9-C3DEC2B95F0A}|PizzaMizza\\PizzaMizza.csproj|solutionrelative:pizzamizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC058ABD-FDC1-48A7-87E9-C3DEC2B95F0A}|PizzaMizza\\PizzaMizza.csproj|c:\\users\\nijat\\onedrive\\desktop\\lessons\\pizzamizza\\pizzamizza\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC058ABD-FDC1-48A7-87E9-C3DEC2B95F0A}|PizzaMizza\\PizzaMizza.csproj|solutionrelative:pizzamizza\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC058ABD-FDC1-48A7-87E9-C3DEC2B95F0A}|PizzaMizza\\PizzaMizza.csproj|c:\\users\\nijat\\onedrive\\desktop\\lessons\\pizzamizza\\pizzamizza\\services\\ipizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC058ABD-FDC1-48A7-87E9-C3DEC2B95F0A}|PizzaMizza\\PizzaMizza.csproj|solutionrelative:pizzamizza\\services\\ipizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC058ABD-FDC1-48A7-87E9-C3DEC2B95F0A}|PizzaMizza\\PizzaMizza.csproj|c:\\users\\nijat\\onedrive\\desktop\\lessons\\pizzamizza\\pizzamizza\\entity\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC058ABD-FDC1-48A7-87E9-C3DEC2B95F0A}|PizzaMizza\\PizzaMizza.csproj|solutionrelative:pizzamizza\\entity\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC058ABD-FDC1-48A7-87E9-C3DEC2B95F0A}|PizzaMizza\\PizzaMizza.csproj|c:\\users\\nijat\\onedrive\\desktop\\lessons\\pizzamizza\\pizzamizza\\enums\\pizzasize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC058ABD-FDC1-48A7-87E9-C3DEC2B95F0A}|PizzaMizza\\PizzaMizza.csproj|solutionrelative:pizzamizza\\enums\\pizzasize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nijat\\OneDrive\\Desktop\\Lessons\\PizzaMizza\\PizzaMizza\\Program.cs",
+              "RelativeDocumentMoniker": "PizzaMizza\\Program.cs",
+              "ToolTip": "C:\\Users\\Nijat\\OneDrive\\Desktop\\Lessons\\PizzaMizza\\PizzaMizza\\Program.cs",
+              "RelativeToolTip": "PizzaMizza\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAIQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:41:53.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPizzaService.cs",
+              "DocumentMoniker": "C:\\Users\\Nijat\\OneDrive\\Desktop\\Lessons\\PizzaMizza\\PizzaMizza\\Services\\IPizzaService.cs",
+              "RelativeDocumentMoniker": "PizzaMizza\\Services\\IPizzaService.cs",
+              "ToolTip": "C:\\Users\\Nijat\\OneDrive\\Desktop\\Lessons\\PizzaMizza\\PizzaMizza\\Services\\IPizzaService.cs",
+              "RelativeToolTip": "PizzaMizza\\Services\\IPizzaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:39:53.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PizzaService.cs",
+              "DocumentMoniker": "C:\\Users\\Nijat\\OneDrive\\Desktop\\Lessons\\PizzaMizza\\PizzaMizza\\Services\\PizzaService.cs",
+              "RelativeDocumentMoniker": "PizzaMizza\\Services\\PizzaService.cs",
+              "ToolTip": "C:\\Users\\Nijat\\OneDrive\\Desktop\\Lessons\\PizzaMizza\\PizzaMizza\\Services\\PizzaService.cs",
+              "RelativeToolTip": "PizzaMizza\\Services\\PizzaService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:39:27.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PizzaSize.cs",
+              "DocumentMoniker": "C:\\Users\\Nijat\\OneDrive\\Desktop\\Lessons\\PizzaMizza\\PizzaMizza\\Enums\\PizzaSize.cs",
+              "RelativeDocumentMoniker": "PizzaMizza\\Enums\\PizzaSize.cs",
+              "ToolTip": "C:\\Users\\Nijat\\OneDrive\\Desktop\\Lessons\\PizzaMizza\\PizzaMizza\\Enums\\PizzaSize.cs",
+              "RelativeToolTip": "PizzaMizza\\Enums\\PizzaSize.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:38:51.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\Nijat\\OneDrive\\Desktop\\Lessons\\PizzaMizza\\PizzaMizza\\Entity\\Pizza.cs",
+              "RelativeDocumentMoniker": "PizzaMizza\\Entity\\Pizza.cs",
+              "ToolTip": "C:\\Users\\Nijat\\OneDrive\\Desktop\\Lessons\\PizzaMizza\\PizzaMizza\\Entity\\Pizza.cs",
+              "RelativeToolTip": "PizzaMizza\\Entity\\Pizza.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:38:23.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

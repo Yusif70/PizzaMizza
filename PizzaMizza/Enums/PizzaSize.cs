@@ -10,6 +10,6 @@ namespace PizzaMizza.Enums
 	{
 		Small = 1,
 		Medium,
-		Big,
+		Large,
 	}
 }

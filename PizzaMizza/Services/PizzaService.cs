@@ -7,16 +7,34 @@ using System.Threading.Tasks;
 
 namespace PizzaMizza.Services
 {
-	public class PizzaService
+	public class PizzaService : IPizzaService
 	{
 		private List<Pizza> pizzaList = [];
-		public void CreatePizza(Pizza pizza)
+
+        public int Count => throw new NotImplementedException();
+
+        public void Create(Pizza pizza)
 		{
 			pizzaList.Add(pizza);
 		}
-		public List<Pizza> GetPizzas()
+        public void Delete(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<Pizza> GetAll()
 		{
 			return pizzaList;
 		}
-	}
+
+        public Pizza GetById(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Update(int id, Pizza pizza)
+        {
+            throw new NotImplementedException();
+        }
+    }
 }
